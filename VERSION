@@ -1,0 +1,5 @@
+commit 9396323f3391387aede4e12ef509796fd8dd5970
+Author: Diego Teran <dteran@google.com>
+Date:   Wed Apr 15 13:21:42 2026 -0700
+
+    Fix AR button overlap on Dynamic Scaling page and resolve HDR bundle bug (#5145)
